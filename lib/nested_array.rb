@@ -39,12 +39,14 @@ def sorted_matrix
   "Watermelon",
 ],
 [
-  "Asparagus"
+  "Asparagus",
+  "Avocadoes",
+  "Grapes",
+  "Potatoes",
   "Strawberries",
   "Potatoes",
-  "Grapes",
-  "Avocadoes",
-  "Asparagus"
+  
+  
   ]
 end
 
